@@ -1,0 +1,3 @@
+# HumanComputerInteraction
+人机交互的软件工程方法课程资料
+存一些大三下学期人机交互课程的资料
